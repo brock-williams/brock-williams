@@ -1,8 +1,7 @@
-Hello! My name is Brock Williams, I'm a freshman undergraduate student studying Computer Science
+Hello! My name is Brock Williams, I'm a rising sophomore undergraduate student studying Computer Science
 
-- 🔭 I’m currently working on personal projects in Java for potential internships
-- 🌱 I’m currently studying Data Structures and Algorithms
-- 📫 How to reach me: brockmwill@comcast.net
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play rugby for my university
+- I’m currently interning at Optum as a Software Engineer, working with the Synthetic Data Team
+- How to reach me: brockmwill@comcast.net
+- Pronouns: he/him/his
+- Fun fact: I play rugby for my university
 
